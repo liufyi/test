@@ -4,4 +4,4 @@ SVN is also a VCS
 java
 from local
 modify from github
-dev branch writed
+dev branch write,master writed
